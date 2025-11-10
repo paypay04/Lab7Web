@@ -50,7 +50,7 @@ Variable PHP
 
 Predefine Variable $_GET
 
-```
+```php
 <?php
 echo 'Selamat Datang ' . $_GET['nama'];
 ?>
@@ -63,7 +63,7 @@ echo 'Selamat Datang ' . $_GET['nama'];
 
 Membuat Form Input
 
-```
+```php
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -92,7 +92,7 @@ Membuat Form Input
 
 Operator
 
-```
+```php
 <?php
 $gaji = 1000000;
 $pajak = 0.1;
