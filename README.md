@@ -10,7 +10,7 @@
 
 PHP Dasar
 
-'''
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -24,13 +24,13 @@ PHP Dasar
     ?>
 </body>
 </html>
-'''
+```
 
 <img width="1041" height="442" alt="Screenshot 2025-11-10 132004" src="https://github.com/user-attachments/assets/74d7b2e5-8c10-4d3d-9e99-ffbe7da4b43e" />
 
 Variable PHP
 
-'''
+```
     ?>
 
     <h2>Menggunakan Variable</h2>
@@ -40,7 +40,7 @@ Variable PHP
         echo "NIM : " . $nim . "<br>";
         echo "Nama : $nama";
     ?>
-'''
+```
     
 <img width="1895" height="620" alt="Screenshot 2025-11-10 140558" src="https://github.com/user-attachments/assets/67b51913-4c38-4882-9838-f78051a9ed7d" />
 
@@ -50,11 +50,11 @@ Variable PHP
 
 Predefine Variable $_GET
 
-'''
+```
 <?php
 echo 'Selamat Datang ' . $_GET['nama'];
 ?>
-'''
+```
 
 <img width="1918" height="257" alt="Screenshot 2025-11-10 140320" src="https://github.com/user-attachments/assets/b2f5b6cb-fbca-44ac-9683-07ab73bccf33" />
 
@@ -63,7 +63,7 @@ echo 'Selamat Datang ' . $_GET['nama'];
 
 Membuat Form Input
 
-'''
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -83,7 +83,7 @@ Membuat Form Input
     ?>
 </body>
 </html>
-'''
+```
 
 <img width="1898" height="545" alt="Screenshot 2025-11-10 134213" src="https://github.com/user-attachments/assets/9d0e275c-a454-45a0-8c39-f60bfc5923c3" />
 
@@ -92,7 +92,7 @@ Membuat Form Input
 
 Operator
 
-'''
+```
 <?php
 $gaji = 1000000;
 $pajak = 0.1;
@@ -101,7 +101,7 @@ $thp = $gaji - ($gaji * $pajak);
 echo "Gaji sebelum pajak = Rp. $gaji <br>";
 echo "Gaji yang dibawa pulang = Rp. $thp";
 ?>
-'''
+```
 
 <img width="1919" height="289" alt="Screenshot 2025-11-10 134326" src="https://github.com/user-attachments/assets/fb5ecfb2-3321-4d42-a69a-4442cd4f058d" />
 
@@ -142,7 +142,7 @@ Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nam
 
 **code**
 
-'''
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -312,7 +312,7 @@ Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nam
     <footer>© 2025 | Praktikum 7 PHP Dasar by Vivi Alydia</footer>
 </body>
 </html>
-'''
+```
 
 **Output**
 
