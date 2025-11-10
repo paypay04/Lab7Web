@@ -142,7 +142,7 @@ Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nam
 
 **code**
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
