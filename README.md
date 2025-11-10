@@ -30,7 +30,7 @@ PHP Dasar
 
 Variable PHP
 
-```
+```php
     ?>
 
     <h2>Menggunakan Variable</h2>
